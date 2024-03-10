@@ -21,3 +21,7 @@ go run .
 - Select option 3 from the menu to conduct a lottery draw.
 - Select option 4 from the menu to reset purchased lottery tickets.
 - Select option 5 from the menu to exit the application.
+
+## Example
+https://github.com/ayadato/lottery/assets/162549580/f960731c-66af-46ba-a8ef-6743d61d2790
+
